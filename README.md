@@ -8,7 +8,7 @@
 
 ## 🛠️ Tecnologias
 - Java
-- Spring Boot
+- Spring Boot 
 - SQL (MySQL/PostgreSQL)
 - Git e GitHub
 
