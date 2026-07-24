@@ -1,16 +1,28 @@
-## Hi there 👋
+# 👋 Olá, eu sou o Marilson
 
-<!--
-**marilson-dev/marilson-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Desenvolvedor Java Back-End em formação  
+🚀 Focado em conquistar minha primeira vaga como Dev Júnior  
+📚 Estudando diariamente Java, Spring Boot e Banco de Dados  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias
+- Java
+- Spring Boot
+- SQL (MySQL/PostgreSQL)
+- Git e GitHub
+
+---
+
+## 📂 Projetos em destaque
+(Em breve...)
+
+---
+
+## 📈 Objetivo
+Conseguir minha primeira oportunidade como Desenvolvedor Back-End Júnior.
+
+---
+
+## 📫 Contato
+- LinkedIn: (colocar depois)
